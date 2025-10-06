@@ -9,7 +9,7 @@ This is a simple travel website built with HTML and CSS. It includes:
 
 ## 🔗 Live Website
 
-Visit the site here: Visit the site here: https://jimmy7787.github.io/Travel-Website/)
+Visit the site here: Visit the site here: https://jimmy7787.github.io/Travel-Website/
 
 
 ## 📁 Repository
