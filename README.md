@@ -15,4 +15,5 @@ Visit the site here: Visit the site here:https://jimmy7787.github.io/Travel-Webs
 
 ## 📁 Repository
 
-View the source code here: [https://github.com/iam7787/travel-recommendation-site](https://github.com/iam7787/travel-recommendation-site)
+View the source code here:https://github.com/jimmy7787/Travel-Website
+
